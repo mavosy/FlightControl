@@ -61,7 +61,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+<div align="center">
+  <img src="Images/FlightControl_screenshot.png" alt="Product Screenshot" width="400" />
+</div>
+
+
 **FlightControl** is only a practise project, trying to work with **events**, **delegates** and **MVVM** in an organized manner.
 
 **FlightControl** is a **WPF**-based desktop application that simulates and manages flight-related tasks such as planning or monitoring. This application provides a simple and  interface for interacting with flights, enabling users to make  decisions based on current flight conditions or schedules.
@@ -199,7 +203,6 @@ Project Link: [https://github.com/mavosy/FlightControl](https://github.com/mavos
 [license-url]: https://github.com/mavosy/FlightControl/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/malte-von-sydow
-[product-screenshot]: images/screenshot.png
 [csharp-shield]: https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white
 [csharp-url]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [wpf-shield]: https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white
