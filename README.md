@@ -61,16 +61,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div align="center">
-  <img src="Images/FlightControl_screenshot.png" alt="Product Screenshot" width="400" />
-</div>
-
-
 **FlightControl** is only a practise project, trying to work with **events**, **delegates** and **MVVM** in an organized manner.
 
 **FlightControl** is a **WPF**-based desktop application that simulates and manages flight-related tasks such as planning or monitoring. This application provides a simple and  interface for interacting with flights, enabling users to make  decisions based on current flight conditions or schedules.
 
 The application is built using the **Model-View-ViewModel** (MVVM) design pattern and **WPF**. Users can enter data, manipulate flight details, and track updates.
+
+<br/>
+
+<div align="center">
+  <img src="Images/FlightControl_screenshot.png" alt="Product Screenshot" width="400" />
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
